@@ -1,13 +1,4 @@
-## Hi there 👋
+![Logo](https://media-exp1.licdn.com/dms/image/C4E1BAQFzILIJzXXZVA/company-background_10000/0/1605470740328?e=1606852800&v=beta&t=71JX8DPMkOSd2nAMcOB52tnpUMhvlOjiijIWWLS7Qhc "Logo")
 
-I am a software engineer passionate about UI/UX, frontend, backend, and security. 🔭
+## 🍎 Frontend, 🍏 Backend, 📱 Mobile, ⛅️ Cloud, and 👮🏻 Security. 
 
-I love to make things happen by using modern technologies and scrum methodologies. 🌱
-
-I also love music, playing guitar 🎸, piano  🎹, and drums 🥁.
-
-📫 https://www.baycode.eu <br>
-🎯 krystian.bajno@baycode.eu
-
-
-![alt text](http://www.hackthebox.eu/badge/image/34690 "Logo Title Text 1")
