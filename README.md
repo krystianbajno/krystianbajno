@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**krystianbajno/krystianbajno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer passionate about UI/UX, frontend, backend, and security. 🔭
 
-Here are some ideas to get you started:
+I love to make things happen by using modern technologies and scrum methodologies. 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love music, playing guitar 🎸, piano  🎹, and drums 🥁.
+
+📫 https://www.baycode.eu <br>
+🎯 krystian.bajno@baycode.eu
+
+
+![alt text](http://www.hackthebox.eu/badge/image/34690 "Logo Title Text 1")
