@@ -1,3 +1,3 @@
-[![https://baycode.eu](https://camo.githubusercontent.com/736d080eb127f2aaf603ea1c3feacc181d4c1020a41644de9d960ec7fa66f181/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344531424151467a494c494a7a58585a56412f636f6d70616e792d6261636b67726f756e645f31303030302f302f313630353437303734303332383f653d3136303732383834303026763d6265746126743d4a506d305933464d734a737a396657777271514467516d67504b50587a3574586e376e5f7a3463336d6467 "baycode.eu")](https://baycode.eu)
+[![https://baycode.eu](https://storage.googleapis.com/baycode-51877.appspot.com/baycode_background.png "baycode.eu")](https://baycode.eu)
 
 💙&nbsp;&nbsp;&nbsp;Frontend&nbsp;&nbsp;&nbsp;🖤&nbsp;&nbsp;&nbsp;Backend&nbsp;&nbsp;&nbsp;📱&nbsp;&nbsp;&nbsp;Mobile&nbsp;&nbsp;&nbsp;☁️️&nbsp;&nbsp;&nbsp;Cloud&nbsp;&nbsp;&nbsp;👮🏻&nbsp;&nbsp;&nbsp;Security&nbsp;&nbsp;&nbsp;🎯&nbsp;&nbsp;&nbsp;Agile
