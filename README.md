@@ -2,5 +2,5 @@
  💙&nbsp;&nbsp;&nbsp;Frontend&nbsp;&nbsp;&nbsp;🖤&nbsp;&nbsp;&nbsp;Backend&nbsp;&nbsp;&nbsp;📱&nbsp;&nbsp;&nbsp;Mobile&nbsp;&nbsp;&nbsp;☁️️&nbsp;&nbsp;&nbsp;Cloud&nbsp;&nbsp;&nbsp;👮🏻&nbsp;&nbsp;&nbsp;Security&nbsp;&nbsp;&nbsp;🎯&nbsp;&nbsp;&nbsp;Agile </br>
 <div><a href="https://baycode.eu">Visit _baycode.eu</a></div>
 <hr>
-<div><a href="https://news.baycode.eu">Visit my blog</a></div>
 <div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
+<div><a href="https://news.baycode.eu">Visit my blog</a></div>
