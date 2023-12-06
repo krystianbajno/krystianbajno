@@ -3,6 +3,5 @@
 <div><a href="https://baycode.eu">Visit _baycode.eu</a></div>
 <div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
 <hr>
-<b>Links</b>
 <div><a href="https://news.baycode.eu">Visit my blog</a></div>
 <div><a href="https://www.linkedin.com/in/krystianbajno">Visit my LinkedIn</a></div>
