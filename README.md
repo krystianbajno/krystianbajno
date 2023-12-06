@@ -3,8 +3,7 @@
 <div><b><a href="https://baycode.eu">Visit _baycode.eu</a></b></div>
 <hr>
 <div><a href="https://news.baycode.eu">Visit my blog</a></div>
-<div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
-<hr>
+<div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div></br>
 <span>
  <img width="100" height="100" src="https://baycode.eu/pnpt.png" />
  <img width="100" height="100" src="https://baycode.eu/cysa.png" />
