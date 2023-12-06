@@ -7,6 +7,6 @@
 <hr>
 <span>
  <img width="100" height="100" src="https://baycode.eu/pnpt.png" />
- <img width="100" height="100" src="https://baycode.eu/cysa.png" />
- <img width="100" height="100" src="https://baycode.eu/securityplus.png" />
+ <img width="120" height="120" src="https://baycode.eu/cysa.png" />
+ <img width="120" height="120" src="https://baycode.eu/securityplus.png" />
 </span>
