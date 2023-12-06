@@ -5,4 +5,4 @@
 <div><a href="https://news.baycode.eu">Visit my blog</a></div>
 <div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
 <hr>
-<span><img src="https://baycode.eu/pnpt.png)https://baycode.eu/pnpt.png"/></span>
+<span><img src="https://baycode.eu/pnpt.png"/></span>
