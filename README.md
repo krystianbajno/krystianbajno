@@ -9,4 +9,5 @@
  <img width="100" height="100" src="https://baycode.eu/pnpt.png" />
  <img width="100" height="100" src="https://baycode.eu/cysa.png" />
  <img width="100" height="100" src="https://baycode.eu/securityplus.png" />
+ <img width="100" height="100" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />
 </span>
