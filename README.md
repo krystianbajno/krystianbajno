@@ -1,4 +1,19 @@
 [![https://baycode.eu](img/baner2.png)](https://baycode.eu)
+
+- Software Development 
+- Offensive Security
+- Penetration Tests 
+- Adversary Emulation 
+- Digital Forensics 
+- Cyber Threat Intelligence 
+- Vulnerability Research
+
+- Frontend
+- Backend
+- Mobile
+- Cloud
+- Agile
+
 <div><b><a href="https://baycode.eu">Visit _baycode.eu</a></b></div>
 
 <br>
