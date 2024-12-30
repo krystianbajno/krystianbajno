@@ -61,7 +61,6 @@
 ![Algolia](https://img.shields.io/badge/Algolia-brightgreen.svg)
 ![Firebase](https://img.shields.io/badge/Firebase-brightgreen.svg)
 ![Git](https://img.shields.io/badge/Git-brightgreen.svg)
-![CircleCI](https://img.shields.io/badge/CircleCI-brightgreen.svg)
 ![Agile](https://img.shields.io/badge/Agile-brightgreen.svg)
 ![SCRUM](https://img.shields.io/badge/SCRUM-brightgreen.svg)
 ![Application Security](https://img.shields.io/badge/Application%20Security-brightgreen.svg)
