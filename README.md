@@ -1,6 +1,9 @@
 [![https://baycode.eu](img/baner2.png)](https://baycode.eu)
 
-![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge) 
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge) ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
+
+![Software Development](https://img.shields.io/badge/Software%20Development-1abc9c?style=for-the-badge)    ![Frontend](https://img.shields.io/badge/Frontend-2980b9?style=for-the-badge)  ![Backend](https://img.shields.io/badge/Backend-34495e?style=for-the-badge)  ![Mobile](https://img.shields.io/badge/Mobile-2ecc71?style=for-the-badge)  ![Cloud](https://img.shields.io/badge/Cloud-3498db?style=for-the-badge)  ![Agile](https://img.shields.io/badge/Agile-f1c40f?style=for-the-badge)
+
 
 <br>
 
@@ -12,9 +15,6 @@
 
 <br>
 
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
-
-![Software Development](https://img.shields.io/badge/Software%20Development-1abc9c?style=for-the-badge)    ![Frontend](https://img.shields.io/badge/Frontend-2980b9?style=for-the-badge)  ![Backend](https://img.shields.io/badge/Backend-34495e?style=for-the-badge)  ![Mobile](https://img.shields.io/badge/Mobile-2ecc71?style=for-the-badge)  ![Cloud](https://img.shields.io/badge/Cloud-3498db?style=for-the-badge)  ![Agile](https://img.shields.io/badge/Agile-f1c40f?style=for-the-badge)
 
 ![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
 
