@@ -30,7 +30,7 @@
 ## 🌐 Cyber Services
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  
 
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge&logo=target&logoColor=red)  ![Maldev](https://img.shields.io/badge/maldev-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-111?style=for-the-badge&logo=target&logoColor=red)  ![Maldev](https://img.shields.io/badge/maldev-%23111.svg?style=for-the-badge&logo=target&logoColor=red) 
 
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  
 
@@ -45,7 +45,7 @@
 ![Webapps](https://img.shields.io/badge/webapps-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
 
-## 🚀 Stack
+## 🚀 SWE Stack
 
 ![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly_010101-%23000.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/WIN_API-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
