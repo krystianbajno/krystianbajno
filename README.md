@@ -36,13 +36,6 @@
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
 
 ## 🚀 **SWE Stack**
-![Software Development](https://img.shields.io/badge/Software%20Development-1abc9c?style=for-the-badge)  ![Frontend](https://img.shields.io/badge/Frontend-2980b9?style=for-the-badge)  ![Backend](https://img.shields.io/badge/Backend-34495e?style=for-the-badge)  ![Mobile](https://img.shields.io/badge/Mobile-2ecc71?style=for-the-badge)  ![Cloud](https://img.shields.io/badge/Cloud-3498db?style=for-the-badge)  ![Agile](https://img.shields.io/badge/Agile-f1c40f?style=for-the-badge)  
-
-
-### **Scripting**
----
-![PowerShell](https://img.shields.io/badge/powershell-007ACC?style=for-the-badge&logo=powershell&logoColor=white)   ![Bash](https://img.shields.io/badge/bash-007ACC?style=for-the-badge&logo=bash&logoColor=white)
-
 ### **Backend**
 ---
 ![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-%23777BB4.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23777BB4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![WINAPI](https://img.shields.io/badge/WinAPI-%23777BB4.svg?style=for-the-badge&logo=windows&logoColor=white)  
@@ -65,6 +58,10 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%234ea94b.svg?style=for-the-badge&logo=vue.js&logoColor=white)  ![NuxtJS](https://img.shields.io/badge/nuxt.js-%234ea94b.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)  
 
 ![SASS](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=%23F7DF1E)  ![SCSS](https://img.shields.io/badge/scss-%23323330.svg?style=for-the-badge&logo=scss&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E)  
+
+### **Scripting**
+---
+![PowerShell](https://img.shields.io/badge/powershell-007ACC?style=for-the-badge&logo=powershell&logoColor=white)   ![Bash](https://img.shields.io/badge/bash-007ACC?style=for-the-badge&logo=bash&logoColor=white)
 
 ### **Blockchain**
 ---
