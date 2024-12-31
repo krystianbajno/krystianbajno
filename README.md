@@ -27,7 +27,16 @@
   </a>
 </span>
 
----
+## 🌐 Cyber Services
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  
+
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge)  
+
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  
+
+![Intelligence](https://img.shields.io/badge/Open_Source_Intelligence-%23fff.svg?style=for-the-badge&logo=&logoColor=red)
+![Vulnerability Intelligence](https://img.shields.io/badge/Vulnerability%20Intelligence-fff?style=for-the-badge) 
+![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-fff?style=for-the-badge) 
 
 ## 🎯 Interesting targets
 
@@ -39,7 +48,7 @@
 
 ## 🚀 Stack
 
-![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-%23000.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly_010101-%23000.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/WIN_API-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
 
 ![Python](https://img.shields.io/badge/python-007ACC?style=for-the-badge&logo=python&logoColor=white)   ![Django](https://img.shields.io/badge/django-007ACC?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-007ACC?style=for-the-badge&logo=flask&logoColor=white)  
