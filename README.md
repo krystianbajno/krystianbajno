@@ -58,6 +58,8 @@
 
 ![PowerShell](https://img.shields.io/badge/powershell-007ACC?style=for-the-badge&logo=powershell&logoColor=white)   ![Bash](https://img.shields.io/badge/bash-007ACC?style=for-the-badge&logo=bash&logoColor=white)
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
+
 ---
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)  
@@ -75,10 +77,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-007FFF.svg?style=for-the-badge&logo=azure&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-%230167ff.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Proxmox](https://img.shields.io/badge/Proxmox-%230167ff.svg?style=for-the-badge&logo=Proxmox&logoColor=white)  ![KVM](https://img.shields.io/badge/KVM-%230167ff.svg?style=for-the-badge&logo=KVM&logoColor=white)  
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Podman](https://img.shields.io/badge/podman-%230db7ed.svg?style=for-the-badge&logo=podman&logoColor=white)  ![LXC](https://img.shields.io/badge/lxc-%230db7ed.svg?style=for-the-badge&logo=lxc&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
----
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
 
 ---
 
