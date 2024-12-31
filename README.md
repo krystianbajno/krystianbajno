@@ -1,17 +1,16 @@
 [![https://baycode.eu](img/baner2.png)](https://baycode.eu)
 
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge) 
+
 <br>
 
 <div><b><a href="https://baycode.eu">Visit _baycode.eu</a></b></div>
 <div><a href="https://news.baycode.eu">Visit my blog</a></div>
-
-
+<br>
 <div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
 <br>
 
 <br>
-
-![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge) 
 
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
 
