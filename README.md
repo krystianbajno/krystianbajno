@@ -27,14 +27,6 @@
   </a>
 </span>
 
-
-## 🌐 Cyber
-![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  
-
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge)  
-
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
-
 ## 🚀 **SWE Stack**
 ### **Backend**
 ---
