@@ -19,9 +19,6 @@
   <a href="https://www.comptia.org">
     <img width="100" height="100" src="https://baycode.eu/securityplus.png" alt="Security+ Certification" />
   </a>
-  <a href="https://www.microsoft.com">
-    <img width="100" height="100" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certification" />
-  </a>
   <a href="https://pitradwar.com">
     <img width="100" height="100" src="img/cyberbezpieka.png" alt="cyberbezpieka" />
   </a>
