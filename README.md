@@ -35,13 +35,6 @@
 ![Vulnerability Intelligence](https://img.shields.io/badge/Vulnerability%20Intelligence-fff?style=for-the-badge) 
 ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-fff?style=for-the-badge) 
 
-## 🎯 Interesting targets
-
-![Fuzzing](https://img.shields.io/badge/fuzzing_usermode/Kernelmode-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
-![Hypervisors](https://img.shields.io/badge/hypervisors-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
-![Webapps](https://img.shields.io/badge/webapps-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
-![Active Directory](https://img.shields.io/badge/Active_Directory-%23000.svg?style=for-the-badge&logo=target&logoColor=red) 
-
 ## 🚀 SWE Stack
 
 ![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly_010101-%23000.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
