@@ -21,7 +21,7 @@
   </a>
 </span>
 
-## 🚀 SWE Stack
+---
 
 ![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly_010101-%23000.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/WIN_API-%23000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
