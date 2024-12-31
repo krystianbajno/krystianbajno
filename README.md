@@ -35,7 +35,7 @@
 ---
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
 
-## 🚀 **SWE**
+## 🚀 **SWE Stack**
 ![Software Development](https://img.shields.io/badge/Software%20Development-1abc9c?style=for-the-badge)  ![Frontend](https://img.shields.io/badge/Frontend-2980b9?style=for-the-badge)  ![Backend](https://img.shields.io/badge/Backend-34495e?style=for-the-badge)  ![Mobile](https://img.shields.io/badge/Mobile-2ecc71?style=for-the-badge)  ![Cloud](https://img.shields.io/badge/Cloud-3498db?style=for-the-badge)  ![Agile](https://img.shields.io/badge/Agile-f1c40f?style=for-the-badge)  
 
 
