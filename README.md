@@ -3,7 +3,8 @@
 <br>
 
 <div><b><a href="https://baycode.eu">Visit _baycode.eu</a></b></div>
-
+<div><a href="https://news.baycode.eu">Visit my blog</a></div>
+<div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
 <br>
 
 <br>
@@ -57,9 +58,6 @@
 
 ![Figma](https://img.shields.io/badge/Figma-%23326ce5.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  ![WebFlow](https://img.shields.io/badge/WebFlow-%23326ce5.svg?style=for-the-badge&logo=webflow&logoColor=white)  
 
-
-<div><a href="https://news.baycode.eu">Visit my blog</a></div>
-<div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
 <hr>
 <span>
  <a href="https://academy.tcm-sec.com"><img width="100" height="100" src="https://baycode.eu/pnpt.png" /></a>
