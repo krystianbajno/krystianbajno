@@ -1,72 +1,66 @@
-# ![BayCode](img/baner2.png)
+[![https://baycode.eu](img/baner2.png)](https://baycode.eu)
 
-Welcome to **BayCode's** GitHub Repository!  
-Your one-stop destination for cutting-edge solutions in cybersecurity, software development, and more.
+
+## 🔗 **Useful Links**
+
+- **🌐 [Visit baycode.eu](https://baycode.eu)**
+- **📝 [Visit My Blog](https://news.baycode.eu)**
+- **📄 [Preview Demo Pentest Report](https://baycode.eu/pentest)**
 
 ---
 
-## 🏷️ **Technologies & Skills**
+<span>
+  <a href="https://academy.tcm-sec.com">
+    <img width="100" height="100" src="https://baycode.eu/pnpt.png" alt="PNPT Certification" />
+  </a>
+  <a href="https://www.comptia.org">
+    <img width="100" height="100" src="https://baycode.eu/cysa.png" alt="CySA+ Certification" />
+  </a>
+  <a href="https://www.comptia.org">
+    <img width="100" height="100" src="https://baycode.eu/securityplus.png" alt="Security+ Certification" />
+  </a>
+  <a href="https://www.microsoft.com">
+    <img width="100" height="100" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certification" />
+  </a>
+  <a href="https://pitradwar.com">
+    <img width="100" height="100" src="img/cyberbezpieka.png" alt="cyberbezpieka" />
+  </a>
+</span>
 
-### **Offensive Security**
-![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  
-![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  
-![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  
+
+## 🌐 Cyber
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security-f00?style=for-the-badge)  ![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-f00?style=for-the-badge)  ![Adversary Emulation](https://img.shields.io/badge/Adversary%20Emulation-f00?style=for-the-badge)  
+
 ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000?style=for-the-badge)  
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  
-![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
 
-### **Software Development**
-![Software Development](https://img.shields.io/badge/Software%20Development-1abc9c?style=for-the-badge)  
-![Frontend](https://img.shields.io/badge/Frontend-2980b9?style=for-the-badge)  
-![Backend](https://img.shields.io/badge/Backend-34495e?style=for-the-badge)  
-![Mobile](https://img.shields.io/badge/Mobile-2ecc71?style=for-the-badge)  
-![Cloud](https://img.shields.io/badge/Cloud-3498db?style=for-the-badge)  
-![Agile](https://img.shields.io/badge/Agile-f1c40f?style=for-the-badge)  
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-00f?style=for-the-badge)  
 
-### **Programming Languages**
-![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-%23777BB4.svg?style=for-the-badge&logo=asm&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%23777BB4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![WINAPI](https://img.shields.io/badge/WinAPI-%23777BB4.svg?style=for-the-badge&logo=windows&logoColor=white)  
+## 🚀 **Software Development**
+![Software Development](https://img.shields.io/badge/Software%20Development-1abc9c?style=for-the-badge)  ![Frontend](https://img.shields.io/badge/Frontend-2980b9?style=for-the-badge)  ![Backend](https://img.shields.io/badge/Backend-34495e?style=for-the-badge)  ![Mobile](https://img.shields.io/badge/Mobile-2ecc71?style=for-the-badge)  ![Cloud](https://img.shields.io/badge/Cloud-3498db?style=for-the-badge)  ![Agile](https://img.shields.io/badge/Agile-f1c40f?style=for-the-badge)  
 
-### **Web Development**
-![Python](https://img.shields.io/badge/python-007ACC?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/django-007ACC?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-007ACC?style=for-the-badge&logo=flask&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![Symfony](https://img.shields.io/badge/symfony-%23777BB4.svg?style=for-the-badge&logo=symfony&logoColor=white)  
+### **Backend**
 
-### **Frontend Frameworks**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![WebAssembly](https://img.shields.io/badge/webassembly-%23323330.svg?style=for-the-badge&logo=webassembly&logoColor=%23F7DF1E)  
-![ReactJS](https://img.shields.io/badge/reactjs-%23B7178C.svg?style=for-the-badge&logo=react&logoColor=white)  
-![ReactNative](https://img.shields.io/badge/reactnative-%23B7178C.svg?style=for-the-badge&logo=react&logoColor=white)  
-![NextJS](https://img.shields.io/badge/next.js-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/vue.js-%234ea94b.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
-![NuxtJS](https://img.shields.io/badge/nuxt.js-%234ea94b.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)  
+![Rust](https://img.shields.io/badge/rust-F16822?style=for-the-badge&logo=rust&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-%23777BB4.svg?style=for-the-badge&logo=asm&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%23777BB4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![WINAPI](https://img.shields.io/badge/WinAPI-%23777BB4.svg?style=for-the-badge&logo=windows&logoColor=white)  
+
+![Python](https://img.shields.io/badge/python-007ACC?style=for-the-badge&logo=python&logoColor=white)   ![Django](https://img.shields.io/badge/django-007ACC?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-007ACC?style=for-the-badge&logo=flask&logoColor=white)  
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Symfony](https://img.shields.io/badge/symfony-%23777BB4.svg?style=for-the-badge&logo=symfony&logoColor=white)  
+
+### **Frontend**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![WebAssembly](https://img.shields.io/badge/webassembly-%23323330.svg?style=for-the-badge&logo=webassembly&logoColor=%23F7DF1E)  
+
+![ReactJS](https://img.shields.io/badge/reactjs-%23B7178C.svg?style=for-the-badge&logo=react&logoColor=white)  ![ReactNative](https://img.shields.io/badge/react%20native-%23B7178C.svg?style=for-the-badge&logo=react&logoColor=white)  ![NextJS](https://img.shields.io/badge/next.js-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white)  
+
+![Vue.js](https://img.shields.io/badge/vue.js-%234ea94b.svg?style=for-the-badge&logo=vue.js&logoColor=white)  ![NuxtJS](https://img.shields.io/badge/nuxt.js-%234ea94b.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)  
 
 ### **Blockchain**
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)  
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Neo4j](https://img.shields.io/badge/Neo4j-%234ea94b.svg?style=for-the-badge&logo=Neo4j&logoColor=white)  
-![SPARQL](https://img.shields.io/badge/SPARQL-%234ea94b.svg?style=for-the-badge&logo=SPARQL&logoColor=white)  
-![RDF](https://img.shields.io/badge/RDF-%234ea94b.svg?style=for-the-badge&logo=RDF&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Neo4j](https://img.shields.io/badge/Neo4j-%234ea94b.svg?style=for-the-badge&logo=Neo4j&logoColor=white)  ![SPARQL](https://img.shields.io/badge/SPARQL-%234ea94b.svg?style=for-the-badge&logo=SPARQL&logoColor=white)  ![RDF](https://img.shields.io/badge/RDF-%234ea94b.svg?style=for-the-badge&logo=RDF&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
 
-### **Messaging & Streaming**
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  
+### **Messaging, Queues & Streaming**
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  
 
 ### **CI/CD**
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
@@ -92,54 +86,22 @@ Your one-stop destination for cutting-edge solutions in cybersecurity, software 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
 
-### **Operating Systems**
+### **Platforms**
 ![Windows](https://img.shields.io/badge/Windows-%23326ce5.svg?style=for-the-badge&logo=windows&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23326ce5.svg?style=for-the-badge&logo=linux&logoColor=white)  
 ![MacOS](https://img.shields.io/badge/MacOS-%23326ce5.svg?style=for-the-badge&logo=macos&logoColor=white)  
 ![iOS](https://img.shields.io/badge/iOS-%23326ce5.svg?style=for-the-badge&logo=ios&logoColor=white)  
 ![TestFlight](https://img.shields.io/badge/TestFlight-%23326ce5.svg?style=for-the-badge&logo=testflight&logoColor=white)  
 
-### **Design Tools**
+## 🎨 **Design**
 ![Figma](https://img.shields.io/badge/Figma-%23326ce5.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  
+![Adobe](https://img.shields.io/badge/Adobe-%23326ce5.svg?style=for-the-badge&logo=Adobe&logoColor=white)  
 ![WebFlow](https://img.shields.io/badge/WebFlow-%23326ce5.svg?style=for-the-badge&logo=webflow&logoColor=white)  
 
----
+## 📈 **E-Commerce**
+![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  ![Sylius](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  ![PrestaShop](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  ![Magento](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  
 
-## 🔗 **Useful Links**
-
-- **🌐 [Visit BayCode.eu](https://baycode.eu)**
-- **📝 [Visit My Blog](https://news.baycode.eu)**
-- **📄 [Preview Demo Pentest Report](https://baycode.eu/pentest)**
-
----
-
-## 🏅 **Certifications**
-
-<span>
-  <a href="https://academy.tcm-sec.com">
-    <img width="100" height="100" src="https://baycode.eu/pnpt.png" alt="PNPT Certification" />
-  </a>
-  <a href="https://www.comptia.org">
-    <img width="100" height="100" src="https://baycode.eu/cysa.png" alt="CySA+ Certification" />
-  </a>
-  <a href="https://www.comptia.org">
-    <img width="100" height="100" src="https://baycode.eu/securityplus.png" alt="Security+ Certification" />
-  </a>
-  <a href="https://www.microsoft.com">
-    <img width="100" height="100" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certification" />
-  </a>
-  <a href="https://pitradwar.com">
-    <img width="100" height="100" src="img/cyberbezpieka.png" alt="Cyber Bezpieka" />
-  </a>
-</span>
-
----
 
 ## 📫 **Get in Touch**
 
-Feel free to reach out via [BayCode.eu](https://baycode.eu) or follow my [blog](https://news.baycode.eu) for the latest updates.
-
----
-
-© 2024 [BayCode](https://baycode.eu). All rights reserved.
+Feel free to reach out via [[LinkedIn](https://www.linkedin.com/in/krystianbajno/) or follow my [blog](https://news.baycode.eu) for the latest updates.]
