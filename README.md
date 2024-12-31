@@ -1,4 +1,4 @@
-[![https://baycode.eu](img/baner2.png)](https://baycode.eu)
+<!-- [![https://baycode.eu](img/baner2.png)](https://baycode.eu) -->
 
 - **🌐 [Visit baycode.eu](https://baycode.eu)**
 - **📝 [Visit My Blog](https://news.baycode.eu)**
