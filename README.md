@@ -82,10 +82,11 @@
 
 ---
 
-![Windows](https://img.shields.io/badge/Windows-%23326ce5.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-%23326ce5.svg?style=for-the-badge&logo=linux&logoColor=white)  ![MacOS](https://img.shields.io/badge/MacOS-%23326ce5.svg?style=for-the-badge&logo=macos&logoColor=white)  ![iOS](https://img.shields.io/badge/iOS-%23326ce5.svg?style=for-the-badge&logo=ios&logoColor=white)  ![Android](https://img.shields.io/badge/Android-%23326ce5.svg?style=for-the-badge&logo=android&logoColor=white)  
-
----
 ![Figma](https://img.shields.io/badge/Figma-%23326ce5.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Adobe](https://img.shields.io/badge/Adobe-%23326ce5.svg?style=for-the-badge&logo=Adobe&logoColor=white)  ![WebFlow](https://img.shields.io/badge/WebFlow-%23326ce5.svg?style=for-the-badge&logo=webflow&logoColor=white)  
 
----
 ![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  ![Sylius](https://img.shields.io/badge/sylius-%23326ce5.svg?style=for-the-badge&logo=sylius&logoColor=white)  ![PrestaShop](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  ![Magento](https://img.shields.io/badge/magento-%23326ce5.svg?style=for-the-badge&logo=magento&logoColor=white)  
+
+---
+
+![Windows](https://img.shields.io/badge/Windows-%23326ce5.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-%23326ce5.svg?style=for-the-badge&logo=linux&logoColor=white)  ![MacOS](https://img.shields.io/badge/MacOS-%23326ce5.svg?style=for-the-badge&logo=macos&logoColor=white)  ![iOS](https://img.shields.io/badge/iOS-%23326ce5.svg?style=for-the-badge&logo=ios&logoColor=white)  ![Android](https://img.shields.io/badge/Android-%23326ce5.svg?style=for-the-badge&logo=android&logoColor=white)  
+
