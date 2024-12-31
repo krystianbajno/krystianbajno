@@ -1,5 +1,10 @@
 [![https://baycode.eu](img/baner2.png)](https://baycode.eu)
 
+<br>
+
+<div><b><a href="https://baycode.eu">Visit _baycode.eu</a></b></div>
+
+<br>
 
 <br>
 
@@ -52,11 +57,7 @@
 
 ![Figma](https://img.shields.io/badge/Figma-%23326ce5.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  ![WebFlow](https://img.shields.io/badge/WebFlow-%23326ce5.svg?style=for-the-badge&logo=webflow&logoColor=white)  
 
-<br>
 
-<div><b><a href="https://baycode.eu">Visit _baycode.eu</a></b></div>
-
-<br>
 <div><a href="https://news.baycode.eu">Visit my blog</a></div>
 <div><a href="https://baycode.eu/pentest">Preview demo pentest report</a></div>
 <hr>
