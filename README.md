@@ -1,8 +1,5 @@
 [![https://baycode.eu](img/baner2.png)](https://baycode.eu)
 
-
-## 🔗 **Useful Links**
-
 - **🌐 [Visit baycode.eu](https://baycode.eu)**
 - **📝 [Visit My Blog](https://news.baycode.eu)**
 - **📄 [Preview Demo Pentest Report](https://baycode.eu/pentest)**
