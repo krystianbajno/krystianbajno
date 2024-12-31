@@ -115,4 +115,4 @@
 ## 📈 **E-Commerce**
 ---
 
-![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  ![Sylius](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  ![PrestaShop](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  ![Magento](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  
+![Shopify](https://img.shields.io/badge/Shopify-%23326ce5.svg?style=for-the-badge&logo=shopify&logoColor=white)  ![Sylius](https://img.shields.io/badge/sylius-%23326ce5.svg?style=for-the-badge&logo=sylius&logoColor=white)  ![PrestaShop](https://img.shields.io/badge/Prestashop-%23326ce5.svg?style=for-the-badge&logo=prestashop&logoColor=white)  ![Magento](https://img.shields.io/badge/magento-%23326ce5.svg?style=for-the-badge&logo=magento&logoColor=white)  
