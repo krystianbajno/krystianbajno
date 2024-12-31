@@ -19,9 +19,6 @@
   <a href="https://www.comptia.org">
     <img width="100" height="100" src="https://baycode.eu/securityplus.png" alt="Security+ Certification" />
   </a>
-  <a href="https://pitradwar.com">
-    <img width="100" height="100" src="img/cyberbezpieka.png" alt="cyberbezpieka" />
-  </a>
   <a href="https://baycode.eu">
     <img width="100" height="100" src="img/BAYCODE_LOGO.png" alt="baycode-c4isr" />
   </a>
