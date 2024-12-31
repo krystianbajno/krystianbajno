@@ -32,7 +32,6 @@
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-00f?style=for-the-badge)  ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-00f?style=for-the-badge)  
 
 ![Intelligence](https://img.shields.io/badge/Open_Source_Intelligence-%23fff.svg?style=for-the-badge&logo=&logoColor=red)
-![Vulnerability Intelligence](https://img.shields.io/badge/Vulnerability%20Intelligence-fff?style=for-the-badge) 
 ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-fff?style=for-the-badge) 
 
 ## 🚀 SWE Stack
