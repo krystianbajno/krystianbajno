@@ -1,7 +1,22 @@
-🌐 **Visit Us:** Explore our cybersecurity solutions at [www.baysec.eu](https://www.baysec.eu)  
+# Baysec
 
-📄 **Our Services:** [Check out our offerings](https://www.baysec.eu/Services%20Card%20-%20Baysec.pdf) – tailored security solutions for your needs
+Strategic cybersecurity services that protect your business from advanced threats.
+Penetration testing, threat analysis, and intelligence at the highest level.
 
+---
+
+🌐 Website: [https://www.baysec.eu](https://www.baysec.eu)  
+📄 Services: [Services Card (PDF)](https://www.baysec.eu/Services%20Card%20-%20Baysec.pdf)
+
+---
+
+## Services
+
+- Red Teaming & Penetration Testing  
+- Application Security
+- Threat Intelligence & OSINT  
+- Threat Modeling
+- Cybersecurity Training
 ---
 
 <span>
@@ -25,3 +40,8 @@
     <img width="100" height="100" src="linkedin.png" alt="baysec-linkedin" />
   </a>
 </span>
+
+## Contact
+
+Email: kontakt@baysec.eu  
+Phone: +48 786 432 409
