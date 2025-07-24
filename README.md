@@ -4,7 +4,7 @@
 ---
 
 <span>
-  <a href="https://baysec.eu">
+  <a href="https://www.baysec.eu">
     <img src="img/1750871612515.jpeg" alt="Baysec" />
   </a>
 </span>
@@ -12,7 +12,10 @@
   ---
 <span>
 
-  <a href="https://baysec.eu">
-    <img width="100" height="100" src="http://baysec.eu/favicon.png" alt="baycode-c4isr" />
+  <a href="https://www.baysec.eu">
+    <img width="100" height="100" src="https://www.baysec.eu/favicon.png" alt="baysec-c4isr" />
+  </a>
+  <a href="https://www.instagram.com/baysec_cyber">
+    <img width="100" height="100" src="img/instagram.png" alt="baysec-instagram" />
   </a>
 </span>
