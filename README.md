@@ -16,6 +16,6 @@
     <img width="100" height="100" src="https://www.baysec.eu/favicon.png" alt="baysec-c4isr" />
   </a>
   <a href="https://www.instagram.com/baysec_cyber">
-    <img width="100" height="100" src="img/instagram.png" alt="baysec-instagram" />
+    <img width="100" height="100" src="instagram.png" alt="baysec-instagram" />
   </a>
 </span>
