@@ -1,4 +1,5 @@
 - **🌐 [Visit baysec.eu](https://baysec.eu)**
+- **🌐 [View services card](https://www.baysec.eu/Services%20Card%20-%20Baysec.pdf)**
 
 ---
 
