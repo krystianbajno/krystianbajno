@@ -1,4 +1,5 @@
-🌐 **Visit Us:** Explore our cybersecurity solutions at [baysec.eu](https://baysec.eu)  
+🌐 **Visit Us:** Explore our cybersecurity solutions at [www.baysec.eu](https://www.baysec.eu)  
+
 📄 **Our Services:** [Check out our offerings](https://www.baysec.eu/Services%20Card%20-%20Baysec.pdf) – tailored security solutions for your needs
 
 ---
