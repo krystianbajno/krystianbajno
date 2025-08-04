@@ -6,7 +6,7 @@ Penetration testing, threat analysis, and intelligence at the highest level.
 ---
 
 🌐 Website: [https://www.baysec.eu](https://www.baysec.eu)  
-📄 Services: [Services Card (PDF)](https://www.baysec.eu/Services%20Card%20-%20Baysec.pdf)
+📄 Services: [Services Card (PDF)](https://www.baysec.eu/Baysec%20-%20Services%20Card.pdf)
 
 ---
 
