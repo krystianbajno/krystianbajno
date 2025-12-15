@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.1270646"
-     inkscape:cx="136.1945"
-     inkscape:cy="-31.49775"
+     inkscape:zoom="1.1763257"
+     inkscape:cx="197.64934"
+     inkscape:cy="35.279345"
      inkscape:window-width="1680"
      inkscape:window-height="1022"
      inkscape:window-x="0"
@@ -35,7 +35,8 @@
      id="defs1" />
   <g
      id="7d1c2c6fe4"
-     transform="matrix(0.8199073,0,0,0.8199073,-43.903226,-111.75384)">
+     transform="matrix(0.8199073,0,0,0.8199073,-43.903226,-111.75384)"
+     inkscape:label="7d1c2c6fe4">
     <g
        style="fill:#fefefe;fill-opacity:1"
        id="g2">
@@ -121,4 +122,16 @@
       </g>
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0;font-family:STIXIntegralsUp;-inkscape-font-specification:STIXIntegralsUp;letter-spacing:3px;word-spacing:0px;fill:#ddff1f;fill-opacity:1;stroke:#eebcfd;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     x="42.569031"
+     y="17.329456"
+     id="text1"
+     inkscape:label="text1"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'.Aqua Kana';-inkscape-font-specification:'.Aqua Kana';fill:#a668ff;fill-opacity:1;stroke:#eebcfd;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="42.569031"
+       y="17.329456"
+       id="tspan3">   INTELLIGENCE</tspan></text>
 </svg>
