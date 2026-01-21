@@ -9,7 +9,6 @@
 - Application Security
 - Threat Intelligence & OSINT  
 - Threat Modeling
-- Cybersecurity Training
 ---
 
 <span>
