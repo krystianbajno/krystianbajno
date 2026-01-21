@@ -1,5 +1,5 @@
 🌐 Website: [https://www.baysec.eu](https://www.baysec.eu)  
-📄 Blog: [Insights Blog](https://insights.baysec.eu)
+📄 Blog: [https://insights.baysec.eu](https://insights.baysec.eu)
 
 ---
 
