@@ -1,5 +1,5 @@
 🌐 Website: [https://www.baysec.eu](https://www.baysec.eu)  
-📄 Services: [Services Card (PDF)](https://www.baysec.eu/Baysec%20-%20Services%20Card.pdf)
+📄 Blog: [Insights Blog](https://insights.baysec.eu)
 
 ---
 
